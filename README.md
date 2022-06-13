@@ -1,3 +1,3 @@
-# Billgames AImixAE的爬虫仓库
-里面放了许多Python爬虫项目！欢迎使用！
-<br><h5>未经作者允许禁止盗用！</h5>
+<h1>Billgames官方AImixAE的web仓库</h1>
+<p>我先提示一下，这是官方web页面，所以我跟大家说好了</p><br>
+<h3>严禁盗用!!!</h3>
